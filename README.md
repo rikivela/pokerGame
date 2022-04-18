@@ -15,8 +15,10 @@ Desarrollo del proyecto
 
 Realicé una prueba de concepto con el servidor y pasé a programar todas las clases. Toda la parte del servidor y el front de interface de usuario está sin empezar.
 
-Las clases Player, Dealer y Rules están operativas y junto con la máquina de estados Main me llevaron la mayor parte del tiempo. Me hubiera gustado meterme a fondo con el servidor express, pero no he llegado.
+Las clases Player, Dealer y Rules están operativas y junto con la máquina de estados Main, aunque me llevaron la mayor parte del tiempo. Me hubiera gustado meterme a fondo con el servidor express, pero no he llegado.
 
 He aprendido muchas cosas durante el proceso y hay (creo) bastantes líneas de código programadas. Analizando a posteriori (23:45 del 18.04.2022) y con las horas de que tengo disponibles para dedicar al proyecto, quizás fui demasiado ambicioso al elegir el poker. Me ha llevado mucho trabajo por su complejidad y por el planteamiento que me había montado, lo que ha provocado que llege demasiado apurado a la fecha de entrega.
+
+El en último momento y a toda prisa he tenido problemas con la sincronizació del servidor git local y el remoto y del tema del bundler he elegido Vite porque hemos trabajado más que con webpack aunque el código no está comprimido.
 
 Un cordial saludo.
